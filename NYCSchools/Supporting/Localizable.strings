@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  NYCSchools
+
+  Created by Диана Мишкова on 6.01.24.
+  
+*/
+"schools.title" = "Schools";
+"schools.list.nav.title" = "NYC Schools";
+"pull.to.refresh.title" = "Pull to refresh";
+"loading.hud.title" = "Loading";
+"loading.hud.subtitle" = "schools";
+"contractor.title" ="Contractor";
+"school.loading.error.title" = "Something went wrong";
+"school.loading.error.description" = "There was a problem loading schools. Please pull to refresh again later.";
+"school.list.empty.title" = "No schools are found";
+"school.list.empty.description" = "Please pull to refresh again later.";
+
+"school.details.nav.title" = "School Details";
+"school.details.section" = "School Details";
+"school.details.map.section" = "Map";
+
+"school.details.email.title" = "Email";
+"school.details.phone.title" = "Phone";
+"school.details.address.title" = "Address";
+"school.details.grades.title" = "Grades";
+"school.details.website.title" = "Website";
+"school.details.academic.opportunities.title" = "Academic Opportunities";
+
+"school.sat.number.of.test.takers.title" = "Number of Test Takers";
+"school.sat.average.math.score.title" = "Average Math Score";
+"school.sat.average.critical.reading.score.title" = "Average Critical Reading Score";
+"school.sat.average.writing.score.title" = "Average Writing Score";
+
+"school.sat.section" = "SAT Results";
